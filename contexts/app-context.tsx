@@ -54,7 +54,7 @@ export function AppProvider({ children }: { children: ReactNode }) {
       window.removeEventListener('offline', handleOffline)
       mediaQuery.removeEventListener('change', handleChange)
     }
-  }, [])
+}, [])
 
   return (
     <AppContext.Provider
