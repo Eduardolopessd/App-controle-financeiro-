@@ -10,7 +10,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"], variable: "--font-geist-mono
 export const metadata: Metadata = {
   title: 'Finanças - Controle Financeiro Pessoal',
   description: 'PWA de controle financeiro pessoal com diagrama de Sankey. Funciona 100% offline.',
-  generator: 'v0.app',
   manifest: '/manifest.json',
   appleWebApp: {
     capable: true,
@@ -22,11 +21,11 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: '/icons/icon-192x192.jpg', sizes: '192x192', type: 'image/jpeg' },
-      { url: '/icons/icon-512x512.jpg', sizes: '512x512', type: 'image/jpeg' },
+      { url: '/icons/icon-192x192.png', sizes: '192x192', type: 'image/png' },
+      { url: '/icons/icon-512x512.png', sizes: '512x512', type: 'image/png' },
     ],
     apple: [
-      { url: '/icons/icon-192x192.jpg', sizes: '192x192', type: 'image/jpeg' },
+      { url: '/icons/icon-192x192.png', sizes: '192x192', type: 'image/png' },
     ],
   },
 }
