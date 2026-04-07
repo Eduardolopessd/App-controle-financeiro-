@@ -40,7 +40,7 @@ O projeto está publicado na Vercel: [app-controle-financeiro-seven.vercel.app](
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/financas-seven.git](https://github.com/seu-usuario/financas-seven.git)
+   git clone [https://github.com/Eduardolopessd/App-controle-financeiro-](https://github.com/Eduardolopessd/App-controle-financeiro-)
 
 ```
  2. **Instale as dependências:**
@@ -54,7 +54,10 @@ O projeto está publicado na Vercel: [app-controle-financeiro-seven.vercel.app](
    
    ```
  4. **Acesse no navegador:**
+    
    http://localhost:3000
+
+
 ## 📱 Configuração PWA
 Para garantir a instalabilidade no celular, certifique-se de que:
  * O arquivo manifest.json na pasta public está com os ícones PNG configurados.
